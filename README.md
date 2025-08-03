@@ -5,15 +5,15 @@ EduQuery is a personalized learning platform that helps users interact with educ
 ## 🖥️ Application Screenshots
 
 ### Welcome Screen
-![EduQuery Welcome Screen](https://i.imgur.com/example1.png)
+![EduQuery Welcome Screen](./images/home.png)
 *The welcoming interface that introduces users to EduQuery's AI-powered PDF learning capabilities*
 
 ### Main Application Interface
-![EduQuery Main Interface](https://i.imgur.com/example2.png)
+![EduQuery Main Interface](./images/main.png)
 *The main application showing the split-screen layout with PDF viewer and chat interface*
 
 ### Active Learning Session
-![EduQuery Active Session](https://i.imgur.com/example3.png)
+![EduQuery Active Session](./images/example.png)
 *An active learning session where users can upload PDFs, view content, and ask questions to get AI-powered answers*
 
 ---
@@ -224,6 +224,10 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 ```
 Eduquery/
 ├── requirements.txt           # Python dependencies (root level)
+├── images/                    # 📸 Application screenshots
+│   ├── home.png              # Welcome interface screenshot
+│   ├── main.png              # Main application screenshot
+│   └── example.png           # Active learning session screenshot
 ├── backend/                    # 🚀 MAIN BACKEND APPLICATION
 │   ├── EduQuery/
 │   │   ├── __init__.py
