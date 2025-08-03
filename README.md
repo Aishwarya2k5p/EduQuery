@@ -2,6 +2,20 @@
 
 EduQuery is a personalized learning platform that helps users interact with educational textbooks using AI-powered Q&A. It simplifies complex textbook content into easy-to-understand answers and makes study more engaging and accessible.
 
+## 🖥️ Application Screenshots
+
+### Welcome Screen
+![EduQuery Welcome Screen](https://i.imgur.com/example1.png)
+*The welcoming interface that introduces users to EduQuery's AI-powered PDF learning capabilities*
+
+### Main Application Interface
+![EduQuery Main Interface](https://i.imgur.com/example2.png)
+*The main application showing the split-screen layout with PDF viewer and chat interface*
+
+### Active Learning Session
+![EduQuery Active Session](https://i.imgur.com/example3.png)
+*An active learning session where users can upload PDFs, view content, and ask questions to get AI-powered answers*
+
 ---
 
 ## 🚀 How It Works
