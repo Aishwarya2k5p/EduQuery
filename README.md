@@ -106,7 +106,7 @@ Before running EduQuery, make sure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Aishwarya2k5p/Eduquery.git
+git clone https://github.com/Aishwarya2k5p/EduQuery.git
 cd Eduquery
 ```
 
@@ -224,10 +224,6 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 ```
 Eduquery/
 ├── requirements.txt           # Python dependencies (root level)
-├── images/                    # 📸 Application screenshots
-│   ├── home.png              # Welcome interface screenshot
-│   ├── main.png              # Main application screenshot
-│   └── example.png           # Active learning session screenshot
 ├── backend/                    # 🚀 MAIN BACKEND APPLICATION
 │   ├── EduQuery/
 │   │   ├── __init__.py
