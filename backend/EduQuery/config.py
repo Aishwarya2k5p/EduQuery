@@ -4,7 +4,7 @@ from multiprocessing import cpu_count
 class Config:
     CHROMA_DB_PATH = "./data/chroma_db"
     EMBEDDING_MODEL_NAME = "bge-m3:latest"
-    FASTAPI_PORT = 8006
+    FASTAPI_PORT = 8007
     PDF_DIR = "./books"
     BATCH_SIZE = 50 
     MAX_WORKERS = max(1, cpu_count() - 1)
